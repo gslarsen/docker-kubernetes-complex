@@ -24,7 +24,7 @@
     },
     {
       "name": "nginx",
-      "image": "glarsen/multi-nginx",
+      "image": "gslarsen/multi-nginx",
       "hostname": "nginx",
       "essential": true,
       "portMappings": [
